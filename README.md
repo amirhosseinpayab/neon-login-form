@@ -12,9 +12,9 @@ A stylish authentication interface built with pure HTML and CSS, featuring a fut
 
 
 ### 🛠 Technologies Used
-HTML5
-CSS3 (Flexbox)
-No JavaScript — Pure CSS transitions and layout
++ HTML5
++ CSS3 (Flexbox)
++ No JavaScript — Pure CSS transitions and layout
 
 
 
